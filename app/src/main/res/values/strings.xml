@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Friendly Reminder</string>
+    <string name="button_yep">Yep</string>
+    <string name="button_nope">Nope</string>
+    <string name="button_new_question">New question</string>
+    <string name="question_text">Is it a question?</string>
+
 </resources>
